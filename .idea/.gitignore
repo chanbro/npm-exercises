@@ -1,2 +1,5 @@
 # Default ignored files
 /workspace.xml
+public/main.js
+*.map
+node_modules

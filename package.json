@@ -1,0 +1,29 @@
+{
+  "name": "npm-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanbro/npm-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanbro/npm-exercises/issues"
+  },
+  "homepage": "https://github.com/chanbro/npm-exercises#readme",
+  "dependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.5"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  }
+}
