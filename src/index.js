@@ -2,7 +2,7 @@
 
 const $ = require('jquery');
 
-// const {greeting, power, banana} = require('./say-hello.js');
+const {greeting, power, banana} = require('./say-hello.js');
 
 import greeting from './say-hello.js'
 import power from './say-hello.js'
